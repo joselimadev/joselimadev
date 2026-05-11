@@ -1,12 +1,12 @@
 Hi 👋 My name is Jose Lima
 =================================================================================================================================
 
-Senior Software Engineer
+Staff Software Engineer
 ------------------------
 
 * 🌍  I'm based in Brazil
 * 🖥️  See my portfolio at [joselima.dev](http://joselima.dev)
-* 🚀  I'm currently working on [Banco Pan](http://www.bancopan.com.br/)
+* 🚀  I'm currently working on [Banco Pan](http://www.bancopan.com.br/) | [BTG Pactual](https://www.btgpactual.com/)
 
 ### Skills
 
